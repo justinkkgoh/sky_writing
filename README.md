@@ -1,7 +1,8 @@
 # sky_writing
 Sky writing prototype
 
-Purpose of this program is to allow the user to draw characters or digits in the air with their fingers. The code should also be able to predict the character or digit that was drawn by the user. 
+Purpose of this program is to allow the user to draw characters or digits in the air with their fingers. 
+The code should also be able to predict the character or digit that was drawn by the user. 
 
 Below are the following commands 
 

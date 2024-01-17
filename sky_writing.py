@@ -2,7 +2,6 @@ import cv2
 import mediapipe as mp
 import easyocr
 import numpy as np 
-import streamlit as st
 import torch
 
 from helper_fn import  sky_drawing, relative_elb_angle, char_predict, easyocr_predict

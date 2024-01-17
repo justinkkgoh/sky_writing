@@ -1,0 +1,9 @@
+easyocr==1.7.1
+mediapipe==0.10.7
+numpy==1.26.0
+opencv-contrib-python==4.8.1.78
+opencv-python-headless==4.9.0.80
+torch==2.1.0
+torchmetrics==1.2.1
+torchsummary==1.5.1
+torchvision==0.16.0

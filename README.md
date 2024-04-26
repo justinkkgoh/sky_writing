@@ -7,7 +7,8 @@ The code should also be able to predict the character or digit that was drawn by
 Below are the following commands 
 
 ```
-d: activate drawing mode, user can draw characters or digits if their index and middle finger are close to each other 
+d: activate drawing mode, user can draw characters or digits if their index and middle finger
+   are close to each other 
 c: clear drawings 
 e: turn on bent elbow detector 
 r: predict drawn character using pretrained model 
